@@ -1,0 +1,100 @@
+body{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Poppins', sans-serif;
+    }
+
+.head{
+    display: flex;
+    background-color:rgb(21, 7, 7);
+    border-radius: 20px;
+}
+.gratest-show{
+    margin-top: 90px;
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+}
+.marcelo-img{
+    margin-left: 70px;
+    padding: 20px;
+}
+.btn{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: darkolivegreen;
+}
+
+.upcomming{
+  padding: 5px;
+  margin: 5px;
+  border-radius: 5px;
+  background-color:aqua;
+  color:black;
+  width: 150px;
+}
+#blog{
+    background-color:rgb(183, 36, 36);
+}
+.up-match{
+    background-color: black;
+    height: 100px;
+    width: 170px;
+    border-radius: 5px;
+    margin: 20px;
+    padding: 20px;
+}
+.foter-start{
+    margin-left:50%;
+}
+.footer-end{
+    display: flex;
+    padding: 10px;
+}
+.foot{
+    padding: 50px;
+    color:darkcyan;
+}
+footer{
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
+
+
+
+
+
+
+.player{
+    margin-top: 20px;
+    height: 400px;
+    width: 150px;
+    display: flex;
+    margin-left:10px;
+    padding:10px;
+
+    
+}
+.shala-fot{
+    display: flex;
+}
+.hour{
+    margin-right:10px ;
+}
+play{
+    
+    padding:20px;
+    margin: 10px;
+}
+.shala{
+    margin: 10px;
+}
+
+
+
+
+
+.middle{
+    display: flex;
+}
